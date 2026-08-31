@@ -1,17 +1,17 @@
-# Sales Dashboard – Power BI
+## Sales Dashboard – Power BI
 
-## 📊 Project Overview
+## Project Overview
 
 This project is an interactive Sales Dashboard created using Microsoft Power BI. The dashboard helps analyze sales performance, revenue, profit, and other key business insights.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * Microsoft Power BI
 * Power Query
 * DAX
 * Data Visualization
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 * Total Sales analysis
 * Revenue and Profit analysis
@@ -20,18 +20,18 @@ This project is an interactive Sales Dashboard created using Microsoft Power BI.
 * Interactive filters and slicers
 * KPI cards and visualizations
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 ![Sales Dashboard](dashboard2.png)
 
-## 📁 Project File
+## Project File
 
 The Power BI project file is available in this repository.
 
-## 🎯 Objective
+## Objective
 
 The objective of this project is to transform raw sales data into an interactive dashboard and provide meaningful business insights through data visualization.
 
-## 👩‍💻 Author
+## Author
 
-**Rana Nishar**
+**Rana Nishar S A**
